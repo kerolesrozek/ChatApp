@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "509809459103",
+    "project_id": "chat-app-96d9a",
+    "storage_bucket": "chat-app-96d9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509809459103:android:362950775157bb57d907aa",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGsUwhZqkghQ1xGSD2pB3Ai1nXaHfujd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509809459103:android:e065d817eaea7a4cd907aa",
+        "android_client_info": {
+          "package_name": "com.example.chatapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGsUwhZqkghQ1xGSD2pB3Ai1nXaHfujd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509809459103:android:776bb07463d38b00d907aa",
+        "android_client_info": {
+          "package_name": "com.example.chatapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGsUwhZqkghQ1xGSD2pB3Ai1nXaHfujd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509809459103:android:b1f125d64ed44ab7d907aa",
+        "android_client_info": {
+          "package_name": "com.example.chatapp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGsUwhZqkghQ1xGSD2pB3Ai1nXaHfujd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509809459103:android:1878aa1c4a503242d907aa",
+        "android_client_info": {
+          "package_name": "com.example.chatapppp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGsUwhZqkghQ1xGSD2pB3Ai1nXaHfujd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
